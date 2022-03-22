@@ -19,7 +19,7 @@ I'm a [React](https://reactjs.org/) developer from [Buenos Aires, Argentina](htt
 :open_book: Besides programming, I like to read books, exercise, make art, and travel the world.
 
 
-## Lenguages and Tools
+## Languages and Tools
 
 <code> <img height="40" src="https://user-images.githubusercontent.com/35309830/159515123-80d2d7f5-56fb-4d7d-abd9-1e63a0b01383.svg" ></code>
 <code> <img height="40" src="https://user-images.githubusercontent.com/35309830/159515156-1fc4c9b5-4faa-4c44-b0e7-e52dfd391635.svg" ></code>
