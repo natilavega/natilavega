@@ -14,7 +14,7 @@ I'm a [React](https://reactjs.org/) developer from [Buenos Aires, Argentina](htt
 
 🌱 I'm open to a full-time position as a React developer.
 
-:art: I'm a [content creator](https://instagram.com/nati.ui?utm_medium=copy_link) working in the intersection between UI design and web development.
+:art: I'm a [content creator](https://instagram.com/nati.ui) working in the intersection between UI design and web development.
 
 :open_book: Besides programming, I like to read books, exercise, make art, and travel the world.
 
@@ -37,7 +37,7 @@ I'm a [React](https://reactjs.org/) developer from [Buenos Aires, Argentina](htt
 
 <a href="https://natilavega.github.io/"> <img alt="Nati Lavega web" src="https://user-images.githubusercontent.com/35309830/159518514-50327d30-4ac9-4d6c-bf9b-667dff5b2cb9.png" ></a> 
 <a href="https://www.linkedin.com/in/natilavega/"> <img alt="Nati Lavega LinkedIn" src="https://user-images.githubusercontent.com/35309830/159518741-0871e34b-7023-427b-bb1c-62a4b7b5699d.png" ></a> 
-<a href="https://instagram.com/nati.ui?utm_medium=copy_link"> <img alt="Nati Lavega Instagram" src="https://user-images.githubusercontent.com/35309830/159519023-73f18a75-95d4-4b2e-9308-4c806a3170d5.png" ></a> 
+<a href="https://instagram.com/nati.ui"> <img alt="Nati Lavega Instagram" src="https://user-images.githubusercontent.com/35309830/159519023-73f18a75-95d4-4b2e-9308-4c806a3170d5.png" ></a> 
 <a href="https://twitter.com/natilavega"> <img alt="Nati Lavega Twitter" src="https://user-images.githubusercontent.com/35309830/159519148-49500f30-5a05-4892-bb6e-0e6a99d05c58.png" ></a> 
 
 There is still much to be done.
